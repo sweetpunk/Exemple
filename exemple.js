@@ -223,6 +223,7 @@ function submitTaskForm() {
     closeTaskForm();
 }
 
+
 const columns = document.querySelectorAll('.column');
 
 for (let i = 0; i < columns.length; i++) {
