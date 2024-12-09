@@ -223,11 +223,6 @@ function submitTaskForm() {
     closeTaskForm();
 }
 
-document.addEventListener('DOMContentLoaded', () => {
-    const formElement = document.getElementById('taskForm');
-    formElement.addEventListener('keydown', handleEnterKey);
-    enterKeyListenerAdded = true;
-});
 
 const columns = document.querySelectorAll('.column');
 
