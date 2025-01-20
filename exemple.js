@@ -8,7 +8,6 @@ class Task {
     }
 
     createElement() {
-        const taskElement = document.createElement('div');
         taskElement.className = `task ${this.columnId}`;
         taskElement.draggable = true;
         taskElement.addEventListener('dragstart', handleDragStart);
