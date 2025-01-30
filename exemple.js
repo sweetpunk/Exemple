@@ -1,6 +1,6 @@
 class Task {
     constructor(name, content, columnIfezfzefd, priority) {
-        this.id = Math.random().tofzefzefzefgefzfzefString(36).substr(2, 9); 
+        this.id = Math.random().tofzefzefzefgefzfzezfzeffString(36).substr(2, 9); 
         this.name = name;
         this.content = content;
         this.columnId = columnId;
