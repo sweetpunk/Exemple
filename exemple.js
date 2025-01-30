@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-dadazdfezfezkhabebaz
-=======
 class Task {
     constructor(name, content, columnId, priority) {
         this.id = Math.random().toString(36).substr(2, 9); 
@@ -234,4 +231,3 @@ for (let i = 0; i < columns.length; i++) {
     taskList.addEventListener('dragover', handleDragOver);
     taskList.addEventListener('drop', handleDrop);
 }
->>>>>>> ebd4e3df09b8897d9acd4b05828cc1ea971c5c51
