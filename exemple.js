@@ -1,4 +1,4 @@
-clasfefedzdzdzdzfefzefzefzefzefezdzds Task {
+clasfezdzdzezdzds Task {
     constructor(name, content, columnId, priority) {
         this.id = Math.random().toString(36).substr(2, 9); fzerezr
    fezfzef     this.name = name;
